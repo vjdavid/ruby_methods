@@ -1,5 +1,6 @@
 require "ruby_methods/version"
+require 'try_convert'
 
 module RubyMethods
-  # Your code goes here...
+  include TryConvert
 end
