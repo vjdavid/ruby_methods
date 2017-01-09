@@ -1,4 +1,4 @@
-# Ruby Methods
+# Ruby Methods [![Build Status](https://travis-ci.org/vjdavid/ruby_methods.svg?branch=master)](https://travis-ci.org/vjdavid/ruby_methods)
 
 This little repository was created to practice my skills with Ruby language, but
 principally focused in recall the most important methods in the daily programming
