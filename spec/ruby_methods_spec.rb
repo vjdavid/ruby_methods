@@ -1,4 +1,5 @@
 require "spec_helper"
+require 'ruby_methods'
 
 describe RubyMethods do
   it "has a version number" do
